@@ -1,0 +1,5 @@
+product_id,product_name,plan_type,price,data_limit_gb,validity_days
+1,1GB Per Day,PREPAID,199.0,30,28
+2,Unlimited Plus,POSTPAID,399.0,999,30
+3,Basic Internet,PREPAID,149.0,15,28
+4,Family Plan,POSTPAID,599.0,999,30
