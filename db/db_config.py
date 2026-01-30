@@ -5,5 +5,5 @@ def get_connection():
         host="localhost",
         database="telecom_bss_oss",
         user="postgres",
-        password="admin"
+        password="admin"  # Replace with your actual password
     )
